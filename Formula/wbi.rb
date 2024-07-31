@@ -5,7 +5,7 @@ class Wbi < Formula
   desc ""
   homepage ""
   url "https://github.com/stumpyfr/world_bank_indicators_cli"
-  version "0.1.0"
+  version "0.2.0"
   sha256 "cb61201ae485f6944300a2b4550906c66530bd69e6ed1e7d48cea183f363704f"
   license ""
 
